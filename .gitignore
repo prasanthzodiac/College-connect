@@ -40,3 +40,9 @@ yarn-error.log*
 # Temporary files
 *.tmp
 .cache/
+
+# Deployment documentation (keep in repo but ignore if needed)
+# DEPLOYMENT_*.md
+# RAILWAY_*.md
+# VERCEL_*.md
+# FIREBASE_*.md
